@@ -3,5 +3,5 @@
  * Export `bool`
  */
 
-module.exports = require('input-placeholder')
-  && require('textarea-placeholder');
+module.exports = require('component-has-input-placeholder')
+  && require('component-has-textarea-placeholder');
